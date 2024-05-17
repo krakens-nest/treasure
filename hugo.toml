@@ -2,3 +2,25 @@ baseURL = 'https://krakens-nest.github.io/treasure/'
 languageCode = 'en-us'
 title = "Kraken's Treasure"
 theme = 'hugo-scroll'
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+[params]
+title_guard = false
+title = "Kraken's Image"
+description = "Join the Adventure!"
+hidedesignbyline = true
+invertSectionColors = false
+copyright = "© Kraken's Nest"
+
+[params.footer]
+showContactIcons = false
+showFooterLinks = false
+
+[params.meta]
+keywords = "some, words, here"
+
+[[params.contacts]]
+label = "Instagram"
+value = "Instagram"
+url = "https://www.instagram.com/gwlarp/"
+icon = "fa fa-instagram"
