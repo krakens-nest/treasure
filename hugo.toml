@@ -24,3 +24,9 @@ label = "Instagram"
 value = "Instagram"
 url = "https://www.instagram.com/gwlarp/"
 icon = "fa fa-instagram"
+
+[[params.contacts]]
+label = "Email"
+value = "E-mail"
+url = "mailto:krakensnest2024@gmail.com"
+icon = "fa fa-envelope"

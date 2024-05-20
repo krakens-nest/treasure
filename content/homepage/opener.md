@@ -2,10 +2,14 @@
 title: "Ahoy, mateys!"
 weight: 1
 ---
-Save the date! 
+Step into the Golden Age of Piracy in our LARP, "Kraken's Treasure."
 
-This month, the 31st of May, DSU Game Writing 23 will host a LARP at Kulturlabbet! The theme is: Pirates! The LARP will be held in English.
+Join Captain Blackbeard's crew on the ship _The Unicorn's Sting_ as they celebrate their triumphant acquisition of the mythical Kraken's Treasure. But beware, for unrest brews in the crew with tales of a sinister curse that haunts the gleaming coins.
 
-What is a LARP, you may ask? LARP is an acronym for Live Action Role-Playing game. You as a player will be invited into a fictional world existing within a real-world space (Kulturlabbet).  You will physically portray a character through acting and costumes!
+Will you seize your fortune or fall victim to the Kraken's curse? Embark on a fantastical journey of pirates, treasure, and supernatural perils. Are you ready to sail into legend?
 
-More information about the event will be delivered within next week, keep yer eye out for it! We hope that you join us, the more sailors the merrier!
+## How do I join?
+
+Joining is easy! We ask that all participants complete a Google form that include the participant's name and email. This data will be used to contact participants about the LARP and act as a ticket for admission.
+
+Interested in joining? Here's the form: [https://forms.gle/kBDtkvwu2AUZEypV6](https://forms.gle/kBDtkvwu2AUZEypV6).
