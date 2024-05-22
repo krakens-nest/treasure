@@ -4,7 +4,7 @@ weight: 10
 ---
 Friday, May 31st 2024
 
-16:00 - 18:00
+16:00 - 18:15
 
 ## Location
 
