@@ -10,6 +10,6 @@ Will you seize your fortune or fall victim to the Kraken's curse? Embark on a fa
 
 ## How do I join?
 
-Joining is easy! We ask that all participants complete a Google form that include the participant's name and email. This data will be used to contact participants about the LARP and act as a ticket for admission.
+Joining is easy! We ask that all participants complete a Google form that includes the participant's name and email. This data will be used to contact participants about the LARP and act as a ticket for admission.
 
 Interested in joining? Here's the form: [https://forms.gle/kBDtkvwu2AUZEypV6](https://forms.gle/kBDtkvwu2AUZEypV6).
